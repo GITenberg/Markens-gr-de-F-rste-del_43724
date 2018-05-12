@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2376
     wikipedia: http://en.wikipedia.org/wiki/Knut_Hamsun
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43724#Markens-gr-de-F-rste-del
 gutenberg_issued: '2013-09-14'
 gutenberg_type: Text
 identifiers:
